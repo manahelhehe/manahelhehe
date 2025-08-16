@@ -1,13 +1,13 @@
 # Hi there, I’m Manahel 👋 🌷
 
-🎓 *BS CS Student @ NUST ’29*  
+🎓 *BS CS Student @ NUST ’29 (SEECS)*  
 📍 Islamabad, Pakistan  
 
 ## 💻 About Me  
 - Currently learning *C, C++, Python, and HTML*  
-- Excited about the intersection of *technology & human experience*  
-- Hoping to grow into a *UX Engineer*🦢 (blending design + development)  
-- Big fan of novels📚 (especially fiction — they keep my imagination alive)  
+- Excited to see new manners of *technology & human experience interaction*  
+- Hoping to grow into a *UX Engineer*🦢 (blending my passion and my degree)  
+- Big fan of novels📚 (especially fiction, they offer some respite)  
 
 ## 🛠 Tech Skills (so far)  
 - *Languages:* C, C++, Python, HTML  
