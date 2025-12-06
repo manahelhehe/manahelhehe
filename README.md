@@ -4,14 +4,14 @@
 📍 Islamabad, Pakistan  
 
 ## 💻 About Me  
-- Currently learning *C, C++, Python, and HTML*  
+- Currently learning *Web Development and JavaScript*  
 - Excited to see new manners of *technology & human experience interaction*  
 - Hoping to grow into a *UX Engineer*🦢 (blending my passion and my degree)  
 - Big fan of novels📚 (especially fiction, they offer some respite)  
 
 ## 🛠 Tech Skills (so far)  
-- *Languages:* C, C++, Python, HTML  
-- *Tools:* VS Code, Git  
+- *Languages:* C, C++, Python, HTML, CSS, SQL
+- *Tools:* VS Code, Git, Node.js
 
 ## 🌱 What I’m Exploring Next  
 - Frontend development (CSS, JavaScript, React)  
