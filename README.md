@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Skills (so far)  
 - *Languages:* C, C++, Python, HTML, CSS, SQL
-- *Tools:* VS Code, Git, Node.js
+- *Tools:* VS Code, Git, Node.js, Electron, MySQL, PostgreSQL
 
 ## 🌱 What I’m Exploring Next  
 - Frontend development (CSS, JavaScript, React)  
