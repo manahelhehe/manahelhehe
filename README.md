@@ -6,15 +6,14 @@
 ## 💻 About Me  
 - Currently learning *Web Development and JavaScript*  
 - Excited to see new manners of *technology & human experience interaction*  
-- Hoping to grow into a *UX Engineer*🦢 (blending my passion and my degree)  
-- Big fan of novels📚 (especially fiction, they offer some respite)  
-
+- Big novel girlie
+- 
 ## 🛠 Tech Skills (so far)  
-- *Languages:* C, C++, Python, HTML, CSS, SQL
+- *Languages:* C, C++, Python, HTML, CSS, SQL, JavaScript
 - *Tools:* VS Code, Git, Node.js, Electron, MySQL, PostgreSQL
 
 ## 🌱 What I’m Exploring Next  
-- Frontend development (CSS, JavaScript, React)  
+- Introduction to Machine Learning and data analysis (Python)
 - UX design fundamentals (wireframing, prototyping, accessibility)  
 
 ## 📫 Connect with Me  
